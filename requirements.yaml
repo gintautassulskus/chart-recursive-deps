@@ -1,0 +1,7 @@
+dependencies:
+  - name: reqsubchart_a
+    version: 0.1.0
+    repository: file://charts
+  - name: reqsubchart_b
+    version: 0.1.0
+    repository: file://charts
