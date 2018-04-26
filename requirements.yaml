@@ -1,7 +1,7 @@
 dependencies:
-  - name: reqsubchart_a
+  - name: subchart_a
     version: 0.1.0
-    repository: file://helm-charts/reqsubchart_a
-  - name: reqsubchart_b
+    repository: file://helm-charts/subchart_a
+  - name: subchart_b
     version: 0.1.0
-    repository: file://helm-charts/reqsubchart_b
+    repository: file://helm-charts/subchart_b

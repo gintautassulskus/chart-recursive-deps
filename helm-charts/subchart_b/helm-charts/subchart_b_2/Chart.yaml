@@ -1,3 +1,3 @@
 description: A Helm chart for Kubernetes
-name: reqsubchart_a_2
+name: subchart_b_2
 version: 0.1.0

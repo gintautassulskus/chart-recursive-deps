@@ -1,0 +1,7 @@
+dependencies:
+  - name: subchart_b_1
+    version: 0.1.0
+    repository: file://helm-charts/subchart_b_1
+  - name: subchart_b_2
+    version: 0.1.0
+    repository: file://helm-charts/subchart_b_2
