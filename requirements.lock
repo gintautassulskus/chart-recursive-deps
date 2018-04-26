@@ -1,0 +1,9 @@
+dependencies:
+- name: reqsubchart_a
+  repository: file://helm-charts/reqsubchart_a
+  version: 0.1.0
+- name: reqsubchart_b
+  repository: file://helm-charts/reqsubchart_b
+  version: 0.1.0
+digest: sha256:b3088b84f76e0b41cdaaa8c7d3530c944abc126ffcf1380a3b5bb5ea363348f4
+generated: 2018-04-26T15:40:48.413081019+01:00
